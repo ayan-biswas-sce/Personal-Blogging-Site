@@ -1,0 +1,15 @@
+.sidebar{
+    display: inline-block;
+    justify-content: center;
+}
+a{
+    color: white;
+}
+#sidebar{
+    background-color: rgb(1, 141, 151);
+}
+@media(max-width: 900px){
+    ul li{
+        font-size: 15px;
+    }
+}
